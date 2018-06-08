@@ -1,0 +1,43 @@
+name:  SnowyCore
+main:  server.SnowyCore.Main.Main
+author: DragonSlayer
+version: 1.0
+commands:
+   ban: 
+    description: Bans a player
+    usage: /<command> <player> <reason>
+   setspawn: 
+    description: sets the spawn
+    usage: /<command>
+   spawn: 
+    description: goes to spawn
+    usage: /<command>
+   warp: 
+    description: goes to spawn
+    usage: /<command>
+    usage: /<command> <warp>
+   warps: 
+    description: Shows warps
+    usage: /<command>
+   setwarp: 
+    description: set a warp
+    usage: /<command> <warp>
+    usage: /<command>
+   unban:
+    description: unbans a player
+    usage: /<command> <player>
+   kick:
+    description: goes to spawn
+    usage: /<command> <reason>
+   clearchat: 
+    description: clears chat.
+    usage: /<command>
+   cc: 
+    description: clears chat
+    usage: /<command>
+   unban: 
+    description: clears chat
+    usage: /<command>  
+    
+    
+    
